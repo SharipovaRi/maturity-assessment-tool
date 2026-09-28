@@ -7,8 +7,8 @@ https://sharipovari.github.io/maturity-assessment-tool/
 
 ## Team Members
 
-Member A: Rita Sharipova and Khushi Patel
+Framework Designer (Member A): Rita Sharipova and Khushi Patel
 
-Member B: Minh Anh Ho
+Question Author (Member B): Minh Anh Ho
 
-Member C: Ngan Hang
+Tool Builder (Member C): Ngan Hang
